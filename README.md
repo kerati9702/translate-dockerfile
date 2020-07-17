@@ -54,6 +54,12 @@ $ docker run postgres postgres --help
 และสุดท้ายก็สามารถใช้เพื่อเริ่มเครื่องมือที่แตกต่างอย่างสิ้นเชิงเช่น Bash:
 
 $ docker run --rm -it postgres bash
+
+
+มายยยยยยยยยยยยยยยยยยยยยยย
+
+
+
 ### VOLUME  //Short
 ### USER
 ### WORKDIR //Short
