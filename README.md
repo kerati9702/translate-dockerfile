@@ -56,7 +56,7 @@ $ docker run postgres postgres --help
 $ docker run --rm -it postgres bash
 
 
-มายยยยยยยยยยยยยยยยยยยยยยย
+
 
 
 
