@@ -54,13 +54,9 @@ $ docker run postgres postgres --help
 และสุดท้ายก็สามารถใช้เพื่อเริ่มเครื่องมือที่แตกต่างอย่างสิ้นเชิงเช่น Bash:
 
 $ docker run --rm -it postgres bash
-
-
-
-
-
-
 ### VOLUME  //Short
+การใช้คำสั่ง VOLUME จะใช้เพื่อแสดงพื้นที่ของฐานข้อมูล,การจัดเก็บการกำหนดค่า,ไฟล์ หรือโฟลเดอร์ที่สร้างโดยdocker container. โดยควรใช้VOLUMEสำหรับส่วนของimageที่เปลี่ยนแปลงง่าย
+และ/หรือส่วนที่userไม่สามารถแก้ไขได้
 ### USER
 ### WORKDIR //Short
 ### ONBUILD 
